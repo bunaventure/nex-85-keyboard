@@ -1,0 +1,7 @@
+.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN{
+	background:linear-gradient(180deg, #b6b86d, #82804e)
+}
+
+.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN::before{
+	background:linear-gradient(85deg, #bcbd72, #8a8b54)
+}
