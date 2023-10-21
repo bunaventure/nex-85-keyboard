@@ -12,7 +12,7 @@
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX::before {
-	background: linear-gradient(85deg, #1a1a1a, #444444);
+	background: linear-gradient(85deg, #282828, #3e3e3e);
 	box-shadow: inset -1px -1px 0px 0px #1e1e1e80, inset 1px 1px 0px 0px #33333380;
 }
 
@@ -53,7 +53,7 @@
 	left: 4px;
 	bottom: 5px;
 	right: 4px;
-	background: linear-gradient(85deg, #575757, #333333);
+	background: linear-gradient(85deg, #464646, #525252);
 	border-radius: 8px;
 	box-shadow: inset -1px -1px 0px 0px #2b2b2b80, inset 1px 1px 0px 0px #3a3a3a80;
 }
