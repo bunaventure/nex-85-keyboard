@@ -14,12 +14,12 @@
 			"default":"No",
 			"values":{
 				"No":{
-					"colour/light.css":[
+					"mode/light.css":[
 						"SP"
 					]
 				},
 				"Yes":{
-					"colour/dark.css":[
+					"mode/dark.css":[
 						"SP"
 					]
 				}
