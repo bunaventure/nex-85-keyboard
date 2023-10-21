@@ -1,46 +1,62 @@
 {
 	"name":"NEX-85 Keyboard",
 	"author":"bunaventure",
-	"manifest_version":4,
-	"version":"v1.0",
+	"manifest_version":6,
+	"version":"v2.0",
 	"inject":{
 		"shared.css":[
 			"SP"
 		]
 	},
 	"patches":{
+		"Dark Mode": {
+			"type": "checkbox",
+			"default": "No",
+			"values": {
+				"No": {
+					"colour/light.css": [
+						"SP"
+					]
+				},
+				"Yes": {
+					"colour/dark.css": [
+						"SP"
+					]
+				}
+			}
+		},
 		"Focus Colour":{
 			"default":"Default",
 			"type":"dropdown",
 			"values":{
 				"Default":{},
 				"Blue":{
-					"colours/blue.css":[
+					"focus/blue.css":[
 						"SP"
 					]
 				},
 				"Green":{
-					"colours/green.css":[
+					"focus/green.css":[
 						"SP"
 					]
 				},
 				"Purple":{
-					"colours/purple.css":[
+					"focus/purple.css":[
 						"SP"
 					]
 				},
 				"Red":{
-					"colours/red.css":[
+					"focus/red.css":[
 						"SP"
 					]
 				},
 				"Teal":{
-					"colours/teal.css":[
+					"focus/teal.css":[
 						"SP"
 					]
 				},
 				"Yellow":{
-					"colours/yellow.css":[
+					"focus/yellow.css":[
 						"SP"
 					]
 				}
