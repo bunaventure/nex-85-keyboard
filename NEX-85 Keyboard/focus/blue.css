@@ -1,7 +1,7 @@
-.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN{
-	background:linear-gradient(180deg, #7488b8, #4f617d)
+.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN {
+	background: linear-gradient(180deg, #77849c, #5b6f84);
 }
 
-.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN::before{
-	background:linear-gradient(85deg, #7790bc, #5c6d92)
+.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN::before {
+	background: linear-gradient(85deg, #77869a, #636f7e);
 }
