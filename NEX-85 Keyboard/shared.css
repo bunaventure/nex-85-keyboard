@@ -1,3 +1,7 @@
+.DefaultTheme {
+	--key-pointer-background-color: #8d8d8d !important;
+}
+
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX {
 	margin: 1px;
 	border-radius: 10px;

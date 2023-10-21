@@ -1,3 +1,7 @@
+.DefaultTheme {
+	--key-pointer-background-color: #77849c !important;
+}
+
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN {
 	background: linear-gradient(180deg, #77849c, #5b6f84);
 }
