@@ -17,12 +17,10 @@
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN {
-	background: linear-gradient(180deg, #6e6e6e, #5b5b5b);
 	box-shadow: inset -10px -6px 5px 4px #21212180, 0 0 1px 1px #000000a1, 1px 1px 0px 1px #85858540;
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN::before {
-	background: linear-gradient(85deg, #4d4d4d, #5d5d5d);
 	content: "";
 	position: absolute;
 	top: 2px;

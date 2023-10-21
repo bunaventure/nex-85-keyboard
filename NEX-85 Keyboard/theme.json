@@ -1,7 +1,7 @@
 {
 	"name":"NEX-85 Keyboard",
 	"author":"bunaventure",
-	"manifest_version":6,
+	"manifest_version":4,
 	"version":"v2.0",
 	"inject":{
 		"shared.css":[
@@ -9,17 +9,17 @@
 		]
 	},
 	"patches":{
-		"Dark Mode": {
-			"type": "checkbox",
-			"default": "No",
-			"values": {
-				"No": {
-					"colour/light.css": [
+		"Dark Mode":{
+			"type":"checkbox",
+			"default":"No",
+			"values":{
+				"No":{
+					"colour/light.css":[
 						"SP"
 					]
 				},
-				"Yes": {
-					"colour/dark.css": [
+				"Yes":{
+					"colour/dark.css":[
 						"SP"
 					]
 				}
@@ -29,7 +29,11 @@
 			"default":"Default",
 			"type":"dropdown",
 			"values":{
-				"Default":{},
+				"Default":{
+					"focus/default.css":[
+						"SP"
+					]
+				},
 				"Blue":{
 					"focus/blue.css":[
 						"SP"

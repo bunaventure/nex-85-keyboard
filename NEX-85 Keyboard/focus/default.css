@@ -1,0 +1,11 @@
+.DefaultTheme {
+	--key-pointer-background-color: #8d8d8d !important;
+}
+
+.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN {
+	background: linear-gradient(180deg, #8a8a8a, #656565);
+}
+
+.DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN::before {
+	background: linear-gradient(85deg, #7e7e7e, #666666);
+}
