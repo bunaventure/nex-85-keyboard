@@ -21,13 +21,6 @@
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_Focused_21EoN::before {
-	content: "";
-	position: absolute;
-	top: 2px;
-	left: 4px;
-	bottom: 5px;
-	right: 4px;
-	border-radius: 8px;
 	box-shadow: inset -1px -1px 0px 0px #2b2b2b80, inset 1px 1px 0px 0px #62626224;
 }
 
@@ -45,38 +38,8 @@
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_ToggleOn_3Qrs-::before {
-	content: "";
-	position: absolute;
-	top: 2px;
-	left: 4px;
-	bottom: 5px;
-	right: 4px;
 	background: linear-gradient(85deg, #464646, #525252);
-	border-radius: 8px;
 	box-shadow: inset -1px -1px 0px 0px #2b2b2b80, inset 1px 1px 0px 0px #3a3a3a80;
-}
-
-.DefaultTheme .virtualkeyboard_KeyboardEmojiHeader_Qihxj img {
-	filter: brightness(0) saturate(100%) invert(92%) sepia(17%) saturate(169%) hue-rotate(2deg) brightness(88%) contrast(90%);
-}
-
-.DefaultTheme .virtualkeyboard_KeyboardActionButtonLeft_2both,
-.DefaultTheme .virtualkeyboard_KeyboardActionButtonRight_2Q0Ip {
-	bottom: 7px;
-}
-
-.DefaultTheme .virtualkeyboard_KeyboardEnter_IunX6 span,
-.DefaultTheme .virtualkeyboard_KeyboardRightShift_iMZ3T span,
-.DefaultTheme .virtualkeyboard_KeyboardBackspace_3LsB3 span,
-.DefaultTheme .virtualkeyboard_KeyboardTabKey_3Gfcs span,
-.DefaultTheme .virtualkeyboard_KeyboardCapsKey_NGv5F span,
-.DefaultTheme .virtualkeyboard_KeyboardLeftShift_2ye7Y span {
-	margin: 0 8px 13px;
-}
-
-.DefaultTheme.virtualkeyboard_Keyboard_45rH7,
-.DefaultTheme.virtualkeyboard_EmojiKeyboard_icETE {
-	border-top: 1px solid #00000000;
 }
 
 .DefaultTheme .Col_0,
