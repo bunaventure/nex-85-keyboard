@@ -33,12 +33,12 @@
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_ToggleOn_3Qrs- {
-	background: linear-gradient(180deg, #cacaca, #8b8b8b);
+	background: linear-gradient(180deg, #cacaca, #8b8b8b) !important;
 	box-shadow: inset -10px -6px 5px 4px #21212180, 0 0 1px 1px #000000a1, 1px 1px 0px 1px #85858540;
 }
 
 .DefaultTheme .virtualkeyboard_KeyboardKey_2KhPX.virtualkeyboard_ToggleOn_3Qrs-::before {
-	background: linear-gradient(85deg, #cccccc, #9d9d9d);
+	background: linear-gradient(85deg, #cccccc, #9d9d9d) !important;
 	box-shadow: inset -1px -1px 0px 0px #87878780, inset 1px 1px 0px 0px #a7a7a780;
 }
 
